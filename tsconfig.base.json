@@ -16,5 +16,10 @@
     "baseUrl": ".",
     "paths": {}
   },
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+    "preserveWhitespaces": true,
+    "strictTemplates": true
+  },
   "exclude": ["node_modules", "tmp"]
 }
